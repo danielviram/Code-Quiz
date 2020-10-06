@@ -24,13 +24,10 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and score
 
-# Procedure of Acceptance Criteria
-Firstly 
-
-
-
 # Issues
+
+At first I had trouble figuring out how the quiz was going to flow, but some how I was able to make it flow righ. 
 
 
 # Future Developments
-For future developments I 
+For future developments I would definetly add more pictures and possibly change the button design for each question.  
